@@ -1,0 +1,15 @@
+.addPostForm{
+    max-width: 500px;
+    margin: 50px auto;
+}
+.addPostForm button{
+    margin: 0 auto;
+    display: block;
+}
+.justify-content-center{
+    margin: 20px 0;
+}
+
+.justify-content-center li{
+    margin: 0 10px;
+}
