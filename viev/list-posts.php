@@ -45,6 +45,11 @@
             $bestPost = subval_sort($bestPost, 'contComm');
 
             foreach ($bestPost as $post): 
+            $a=0;
+            if($a==5){
+                break;
+            }
+            $a=($a+1);
         ?>
             <div class="col col-12 col-md-2">
                 <h3 class="text-center">
